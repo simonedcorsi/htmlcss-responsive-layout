@@ -107,4 +107,25 @@
         justify-content: space-between;
     }
 
+    .recipe-card {
+        background-color: white;
+        border-radius: 3px;
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+        margin-bottom: 30px;
+        display: flex;
+        
+    }
+
+    .recipe-info {
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 1;
+    }
+
+    .recipe-video {
+        height: 50vw;
+        flex-grow: 1;
+    }
+
 }
