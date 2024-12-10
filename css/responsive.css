@@ -24,4 +24,24 @@
     .recipe-origin {
         display:inline-block;
     }
+
+    .social-networks button {
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+        padding: 10px 50px ;
+    }
+
+    .ads {
+        display:block;
+        margin: 30px auto;
+    }
+
+    .presentation img {
+        max-width: 300px;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 10px;
+        box-shadow: 0 5px 10px rgb(45 34 60 / 12%);
+        float: left;
+        margin-right: 10px;
+    }
 }
