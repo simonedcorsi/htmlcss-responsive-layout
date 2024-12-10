@@ -9,4 +9,9 @@
         align-items: center;
         justify-content:flex-start;
     }
+    main {
+        background-color: #f6f5f3;
+        padding: 40px;
+        min-height: calc(100vh - 70px);
+    }
 }
