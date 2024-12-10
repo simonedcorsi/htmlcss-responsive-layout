@@ -44,4 +44,20 @@
         float: left;
         margin-right: 10px;
     }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes li {
+        font-size: 14px;
+        margin: 15px 0;
+        list-style-type: none;
+        width: calc( 100%/3 );
+    }
+}
+
+@media screen and (min-width: 992px) {
+
 }
