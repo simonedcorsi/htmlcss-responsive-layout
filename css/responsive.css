@@ -14,4 +14,14 @@
         padding: 40px;
         min-height: calc(100vh - 70px);
     }
+
+    .recipe-name {
+        color: #4e3969;
+        font-weight: 800;
+        font-size: 2rem;
+    }
+
+    .recipe-origin {
+        display:inline-block;
+    }
 }
