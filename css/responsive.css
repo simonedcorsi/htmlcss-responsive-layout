@@ -124,7 +124,7 @@
     }
 
     .recipe-video {
-        height: 50vw;
+        height: auto;
         flex-grow: 1;
     }
 
